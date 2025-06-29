@@ -59,5 +59,9 @@ Project an image onto a physical space detected via ArUco markers using homograp
 
 ---
 
-## 📁 Project Structure
+## 👤 Author
 
+**Shaun Shaji Chittettu**  
+Bachelor student in E-Mobility and Energy Management  
+📍 Ravensburg-Weingarten University of Applied Sciences  
+✉️ chittettushaun@gmail.com
